@@ -1179,11 +1179,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3Course\\TPO\\Test1\\Test1\\Test1.csproj",
+      "projectUniqueName": "D:\\3Course\\TPO\\git-demo\\Lab9\\Test1\\Test1\\Test1.csproj",
       "projectName": "Test1",
-      "projectPath": "D:\\3Course\\TPO\\Test1\\Test1\\Test1.csproj",
+      "projectPath": "D:\\3Course\\TPO\\git-demo\\Lab9\\Test1\\Test1\\Test1.csproj",
       "packagesPath": "C:\\Users\\charr\\.nuget\\packages\\",
-      "outputPath": "D:\\3Course\\TPO\\Test1\\Test1\\obj\\",
+      "outputPath": "D:\\3Course\\TPO\\git-demo\\Lab9\\Test1\\Test1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\charr\\AppData\\Roaming\\NuGet\\NuGet.Config",

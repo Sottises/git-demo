@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fIYJ3qm13+QAPBbaNNB36KGQwaW/f3tPrDG+fSO617ng3VWKwkYuJr2jwO6Um9UoanvXtts9q2iI+i5Q9FAM/w==",
+  "dgSpecHash": "dHO0jrXjmS7AO/fM2h9wOcWT9eQttC+lxtg2D0KixiUB6G/MQdy/3BPx/sqMiHYP2lM4a8I/HkRHhGYzb1E7mA==",
   "success": true,
-  "projectFilePath": "D:\\3Course\\Lab9Second\\Lab09\\PasteBinTests\\PasteBinTests.csproj",
+  "projectFilePath": "D:\\3Course\\TPO\\git-demo\\Lab9\\Lab9Second\\Lab09\\PasteBinTests\\PasteBinTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\charr\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\charr\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NH+E0etjgK79F/ySAvK2AR9bfQlG8+NiXedYzF4TXKgjvvRY8xis178BWjKA89ROE3OP8cSiu+bbhMjnPbeNGA==",
+  "dgSpecHash": "Yav/16pye0wHTFE4I6NYJko6yoehlolDLhxGBNevZpLAxEAQEN/pCrD2/m06UMEySxjsg123UefOQ+NHiNsk6w==",
   "success": true,
-  "projectFilePath": "D:\\3Course\\Lab9Second\\Lab09\\GoogleCloudTests\\GoogleCloud.csproj",
+  "projectFilePath": "D:\\3Course\\TPO\\git-demo\\Lab9\\Lab9Second\\Lab09\\GoogleCloudTests\\GoogleCloud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\charr\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\charr\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
